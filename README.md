@@ -1,2 +1,2 @@
 # RevisionTest
-Testes para revisão de controle de versionamento git
+Testes de revisão e aplicabilidade de algumas tecnologias.
