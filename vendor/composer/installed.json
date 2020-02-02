@@ -1,0 +1,93 @@
+[
+    {
+        "name": "pfbc/pfbc",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/lkorth/php-form-builder-class.git",
+            "reference": "9384b24cb695ada7fd01ca7bb0c2383307fa4d69"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/lkorth/php-form-builder-class/zipball/9384b24cb695ada7fd01ca7bb0c2383307fa4d69",
+            "reference": "9384b24cb695ada7fd01ca7bb0c2383307fa4d69",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2018-08-31T13:55:05+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "PFBC": "."
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-only"
+        ],
+        "authors": [
+            {
+                "email": "ajporterfield@gmail.com",
+                "role": "Owner"
+            },
+            {
+                "email": "moncojhr@gmail.com",
+                "role": "Committer"
+            }
+        ],
+        "description": "Rapid form bulding in PHP",
+        "homepage": "http://code.google.com/p/php-form-builder-class/",
+        "keywords": [
+            "form",
+            "html",
+            "php"
+        ],
+        "abandoned": true
+    },
+    {
+        "name": "php-activerecord/php-activerecord",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/jpfuentes2/php-activerecord.git",
+            "reference": "d9a4130adbef8f5446cbdcc96b42b8204e3da5b4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/jpfuentes2/php-activerecord/zipball/d9a4130adbef8f5446cbdcc96b42b8204e3da5b4",
+            "reference": "d9a4130adbef8f5446cbdcc96b42b8204e3da5b4",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "pear/log": "~1.12",
+            "pear/pear_exception": "1.0-beta1",
+            "phpunit/phpunit": "4.*"
+        },
+        "time": "2017-06-19T20:32:00+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "ActiveRecord.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "php-activerecord is an open source ORM library based on the ActiveRecord pattern.",
+        "homepage": "http://www.phpactiverecord.org/",
+        "keywords": [
+            "activerecord",
+            "orm"
+        ]
+    }
+]
