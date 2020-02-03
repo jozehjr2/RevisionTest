@@ -1,5 +1,5 @@
 <?php
-//Exemplo de código
+//Exemplo de codigo
 
 $teste = "exemplo";
 
