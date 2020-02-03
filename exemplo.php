@@ -5,6 +5,4 @@ $teste = "exemplo";
 
 echo $teste;
 
-
-
 ?>

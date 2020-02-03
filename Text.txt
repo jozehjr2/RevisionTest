@@ -1,7 +1,24 @@
 123456789
 texto comum
-texto não comum
+texto nao comum
 texto incomum
-texto fútil
+texto futil
+One
+two
+three
+four
+five six
+seven eight nine ten
+eleven twelve
+thirteen
+fourteen
+fifteen
+sisteen
+seventeen
+eighteen
+nineteen
+twenty
+twenty-One
+
 
 
